@@ -1,12 +1,12 @@
-## Atualização do Repositório e Referência Acadêmica
+## Repository Update and Academic Reference
 
-Este repositório consolida e atualiza a implementação original do **Problema de Layout de Alocação de Estudantes (SALP)**, inicialmente desenvolvida como parte da tese de doutorado:
+This repository consolidates and updates the original implementation of the **Student Allocation Layout Problem (SALP)**, initially developed as part of the doctoral thesis:
 
-> Charytitsch, Bruna Cristina Braga. *Problemas de Grafos em Camadas: Novas Perspectivas e Aplicações*. São José dos Campos, 2024. 169 f.
-> Tese de Doutorado em Pesquisa Operacional – Instituto Tecnológico de Aeronáutica e Universidade Federal de São Paulo.
-> Orientador: Profa. Dra. María Cristina Vasconcelos Nascimento.
+> Charytitsch, Bruna Cristina Braga. *Layered Graph Problems: New Perspectives and Applications*. São José dos Campos, 2024. 169 f.  
+> Doctoral thesis in Operations Research – Instituto Tecnológico de Aeronáutica and Universidade Federal de São Paulo.  
+> Advisor: Prof. Dr. María Cristina Vasconcelos Nascimento.
 
-O trabalho original foi refinado e expandido, resultando no **Problema de Alocação de Assentos de Estudantes (SSAP)** e no artigo de pesquisa associado, atualmente disponíveis neste repositório.
+The original work has been refined and expanded, resulting in the **Student Seat Allocation Problem (SSAP)** and the associated research paper currently available in this repository.
 
-🔗 **Esta é a implementação oficial e mantida ativamente:**
+🔗 **This is the official and actively maintained implementation:**  
 **https://github.com/bcbraga/SSAP**
